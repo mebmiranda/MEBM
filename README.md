@@ -21,7 +21,7 @@ Also, I am currently studying MS Analytics at Georgia Institute of Technology an
 * Generated Support Vector Machine Model using the training dataset
 * Used the Support Vector Machine to predict the test set and analyzed the model's efficiency
 
-### [Project 2: Bank Loan Proportion: Markov Chain Analysis](https://github.com/mebmiranda/Linear-Regression-and-Assumptions) ###
+### [Project 2: Bank Loan Proportion: Markov Chain Analysis](https://github.com/mebmiranda/Linear-Regression-and-Assumptions/blob/main/Advertising%20Dataset%20(Linear%20Regression%20and%20Assumptions).ipynb) ###
 * Generated 1,000 random past loan transactions. For example, from "Good Loan" to "Bad Loan."
 * Computed the conditional probability for each of the loan types. For example, the probability of "Good Loan" given "Bad Loan."
 * Generated 200 random current loans and computed the current year's loan proportion.
@@ -29,7 +29,7 @@ Also, I am currently studying MS Analytics at Georgia Institute of Technology an
 * Wrote a function that performs Markov Chain Analysis
 * Used the Markov Chain function to determine the year 2 loan proportion, year 3 loan proportion, and the in-the-long run year proportion.
 
-### [Project 3: Advertising Sales Forecasting: Linear Regression and Assumptions](https://github.com/mebmiranda/Linear-Regression-and-Assumptions) ###
+### [Project 3: Advertising Sales Forecasting: Linear Regression and Assumptions](https://github.com/mebmiranda/Linear-Regression-and-Assumptions/blob/main/Advertising%20Dataset%20(Linear%20Regression%20and%20Assumptions).ipynb) ###
 * Determined if there is a Multicollinearity on the predictor variables and no, there is no Multicollinearity on the predictor variables. 
 * Determined if there is a linear relationship between the predictor variables and response variable. Radio and Newspaper do not have a linear relationship with Sales, hence, the two predictor variables were not included in the model.
 * Generated the Linear Regression Model. The model has a 0.932 Coefficient of Determination which means that 93.2% of the data fit the regression model.
