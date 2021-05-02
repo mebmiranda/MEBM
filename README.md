@@ -1,6 +1,6 @@
 ## About Me ##
 
-I am an aspiring Data Scientist and a Master of Science Student at Georgia Institute of Technology. 
+<img align="left" width="150" height="150" src="MEBM.png"> I am an aspiring Data Scientist and a Master of Science Student at Georgia Institute of Technology. 
 
 My undergraduate degree is BS Industrial Engineering which I took from Adamson University. Then, I took MS Engineering Management at George Washington University. I also have several professional certifications such as Management Essentials from Harvard Business School, Lean Six Sigma Black Belt from Dartmouth College, Lean Six Sigma Green Belt from the University of Michigan, Certified Systems Engineering Professional from Internation Council of Systems Engineering, and Certified Associate in Project Management from PMI.
 
