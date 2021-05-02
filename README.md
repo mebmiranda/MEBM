@@ -39,7 +39,7 @@ LinkedIn Profile: [Maynard Miranda](https://www.linkedin.com/in/maynard-emmanuel
 * Determine if the Residuals have Homoscedasticity or Heteroscedasticity relationship. The Residual Plot shows that there is a Homoscedasticity relationship on the residuals.
 * Determine if the Residuals are Normally Distributed. The Quartile-Quartile Plot shows that the Residuals are Normally Distributed.
 
-### [Project 4: Traveling Salesman Problem: Simulated Annealing](https://github.com/mebmiranda/Linear-Regression-and-Assumptions/blob/main/Advertising%20Dataset%20(Linear%20Regression%20and%20Assumptions).ipynb) ###
+### [Project 4: Traveling Salesman Problem: Simulated Annealing](https://github.com/mebmiranda/Traveling-Salesman-Problem/blob/main/Traveling%20Salesperson%20Problem%20-%20Simulated%20Annealing%20.ipynb) ###
 * Used Euclidean Distance formula to compute the distance from one location to another.
 * Computed the initial path's total distance which is the distance from Location 0 to Location 1, and so on until the last Location, and the distance going back from the Last Location to Location 0.
 * Generated 2 random numbers to determine which cities will be swap on the next iteration. 
