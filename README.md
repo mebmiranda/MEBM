@@ -8,6 +8,8 @@ My current job role is leading business and IT-related projects such as system m
 
 Also, I am currently studying MS Analytics at Georgia Institute of Technology and planning to launch my data science career soon. I am excited to see how my strong leadership and management skills + the newly developed data science skills will help my future organization achieve its goals.
 
+LinkedIn Profile: [Maynard Miranda](https://www.linkedin.com/in/maynard-emmanuel-miranda-ab5428169/)
+
 ## Projects ##
 
 ### [Project 1: Breast Cancer Prediction: Classification Models](https://github.com/mebmiranda/Breast-Cancer-Prediction/blob/main/Breast%20Cancer%20Prediction%20(Logistic%20Regression%2C%20K-Nearest%20Neighbors%2C%20Support%20Vector%20Machine).ipynb) ###
