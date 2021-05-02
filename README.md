@@ -21,6 +21,7 @@ LinkedIn Profile: [Maynard Miranda](https://www.linkedin.com/in/maynard-emmanuel
 * Used the K-Nearest Neighbors to predict the test set and analyzed the model's efficiency
 * Generated Support Vector Machine Model using the training dataset
 * Used the Support Vector Machine to predict the test set and analyzed the model's efficiency
+* Determined which model among the 3 models is best fit for the problem.
 
 ### [Bank Loan Proportion: Markov Chain Analysis](https://github.com/mebmiranda/Bank-Loan-Portfolio/blob/main/Bank%20Loan%20Portfolio%20Markov%20Analysis.ipynb) ###
 * Generated 1,000 random past loan transactions. For example, from "Good Loan" to "Bad Loan."
@@ -28,13 +29,13 @@ LinkedIn Profile: [Maynard Miranda](https://www.linkedin.com/in/maynard-emmanuel
 * Generated 200 random current loans and computed the current year's loan proportion.
 * Created Markov Transition Matrix
 * Wrote a function that performs Markov Chain Analysis
-* Used the Markov Chain function to determine the year 2 loan proportion, year 3 loan proportion, and the in-the-long run year proportion.
+* Used the Markov Chain function to determine the year 2 loan proportion, year 3 loan proportion, and the in-the-long run proportion of the bank's loan portfolio.
 
 ### [Advertising Sales Forecasting: Linear Regression and Assumptions](https://github.com/mebmiranda/Linear-Regression-and-Assumptions/blob/main/Advertising%20Dataset%20(Linear%20Regression%20and%20Assumptions).ipynb) ###
-* Determined if there is a Multicollinearity on the predictor variables and no, there is no Multicollinearity on the predictor variables. 
+* Determined if there is a Multicollinearity on the predictor variables. Based on the analysis, there is no Multicollinearity on the predictor variables. 
 * Determined if there is a linear relationship between the predictor variables and response variable. Radio and Newspaper do not have a linear relationship with Sales, hence, the two predictor variables were not included in the model.
 * Generated the Linear Regression Model. The model has a 0.932 Coefficient of Determination which means that 93.2% of the data fit the regression model.
-* Analyzed if Residuals has Autocorrelation using the Durbin Watson Test. The test result suggests that there is a positive low autocorrelation on the residual.
+* Analyzed if Residuals has Autocorrelation using the Durbin Watson Test. The test result suggests that there is a positive low autocorrelation on the residual which is acceptable.
 * Determine if the Residuals have Homoscedasticity or Heteroscedasticity relationship. The Residual Plot shows that there is a Homoscedasticity relationship on the residuals.
 * Determine if the Residuals are Normally Distributed. The Quartile-Quartile Plot shows that the Residuals are Normally Distributed.
 
