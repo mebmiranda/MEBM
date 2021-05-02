@@ -37,3 +37,11 @@ Also, I am currently studying MS Analytics at Georgia Institute of Technology an
 * Determine if the Residuals have Homoscedasticity or Heteroscedasticity relationship. The Residual Plot shows that there is a Homoscedasticity relationship on the residuals.
 * Determine if the Residuals are Normally Distributed. The Quartile-Quartile Plot shows that the Residuals are Normally Distributed.
 
+### [Project 4: Traveling Salesman Problem: Simulated Annealing](https://github.com/mebmiranda/Traveling-Salesman-Problem/blob/main/Traveling%20Salesperson%20Problem%20-%20Simulated%20Annealing%20.ipynb )###
+* Used Euclidean Distance formula to compute the distance from one location to another.
+* Computed the initial path's total distance which is the distance from Location 0 to Location 1, and so on until the last Location, and the distance going back from the Last Location to Location 0.
+* Generated 2 random numbers to determine which cities will be swap on the next iteration. 
+* Computed the new path's total distance. If this new path is shorter, accept it. Otherwise, accept it with probability p
+* The formula for p is p = exp((old distance - new distance)/k) where k is the temperature of the system
+* Generate random probability and if p is better than the generated random probability, accept the new path.
+
