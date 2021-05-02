@@ -10,7 +10,7 @@ Also, I am currently studying MS Analytics at Georgia Institute of Technology an
 
 LinkedIn Profile: [Maynard Miranda](https://www.linkedin.com/in/maynard-emmanuel-miranda-ab5428169/)
 
-## Projects (Work Projects are not included due to confidentiality) ##
+## Projects ##
 
 ### [Project 1: Breast Cancer Prediction: Classification Models](https://github.com/mebmiranda/Breast-Cancer-Prediction/blob/main/Breast%20Cancer%20Prediction%20(Logistic%20Regression%2C%20K-Nearest%20Neighbors%2C%20Support%20Vector%20Machine).ipynb) ###
 * Performed down-scaling to match the counts of the Benign and Malignant Tumor responses. Initially, Benign has 212 counts and Malignant has 357 counts. 145 random Malignant rows were dropped. 
