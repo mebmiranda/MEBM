@@ -23,7 +23,7 @@ LinkedIn Profile: [Maynard Miranda](https://www.linkedin.com/in/maynard-emmanuel
 * Generated Support Vector Machine Model using the training dataset
 * Used the Support Vector Machine to predict the test set and analyzed the model's efficiency
 
-### [Project 2: Bank Loan Proportion: Markov Chain Analysis](https://github.com/mebmiranda/Linear-Regression-and-Assumptions/blob/main/Advertising%20Dataset%20(Linear%20Regression%20and%20Assumptions).ipynb) ###
+### [Project 2: Bank Loan Proportion: Markov Chain Analysis](https://github.com/mebmiranda/Bank-Loan-Portfolio/blob/main/Bank%20Loan%20Portfolio%20Markov%20Analysis.ipynb) ###
 * Generated 1,000 random past loan transactions. For example, from "Good Loan" to "Bad Loan."
 * Computed the conditional probability for each of the loan types. For example, the probability of "Good Loan" given "Bad Loan."
 * Generated 200 random current loans and computed the current year's loan proportion.
