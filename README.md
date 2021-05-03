@@ -3,7 +3,7 @@ Hi there! I am Maynard Miranda an aspiring Data Scientist and a Master of Scienc
 
 I am currently working on a non-profit organization in Washington D.C. My current role is leading business and IT-related projects such as system migration, internal audit, and process improvement. 
 
-My undergraduate degree is Bachelor of Science in Industrial Engineering which I took from Adamson University. Then, I took a Master of Science in Engineering Management at George Washington University. I also have several professional certifications such as Management Essentials from Harvard Business School, Lean Six Sigma Black Belt from Dartmouth College, Lean Six Sigma Green Belt from the University of Michigan, Certified Systems Engineering Professional from Internation Council of Systems Engineering, and Certified Associate in Project Management from Project Management Institute.
+My undergraduate degree is Bachelor of Science in Industrial Engineering which I took from Adamson University. Then, I took a Master of Science in Engineering Management at George Washington University. I also have several professional certifications such as Management Essentials from Harvard Business School, Lean Six Sigma Black Belt from Dartmouth College, Lean Six Sigma Green Belt from the University of Michigan, Certified Systems Engineering Professional from International Council of Systems Engineering, and Certified Associate in Project Management from Project Management Institute.
 
 Lastly,  I am currently studying Master of Science in Analytics at Georgia Institute of Technology and planning to launch my data science career soon. I am excited to see how my strong leadership and management skills plus the newly developed data science skills will help my organization achieve its goals.
 
@@ -39,15 +39,15 @@ Here is my LinkedIn Profile [Maynard Miranda](https://www.linkedin.com/in/maynar
 * Determined if there is a linear relationship between the predictor variables and response variable. Radio and Newspaper do not have a linear relationship with Sales, hence, the two predictor variables were not included in the model.
 * Generated the Linear Regression Model. The model has a 0.932 Coefficient of Determination which means that 93.2% of the data fit the regression model.
 * Analyzed if Residuals has Autocorrelation using the Durbin Watson Test. The test result suggests that there is a positive low autocorrelation on the residual which is acceptable.
-* Determine if the Residuals have Homoscedasticity or Heteroscedasticity relationship. The Residual Plot shows that there is a Homoscedasticity relationship on the residuals.
-* Determine if the Residuals are Normally Distributed. The Quartile-Quartile Plot shows that the Residuals are Normally Distributed.
+* Determined if the Residuals have Homoscedasticity or Heteroscedasticity relationship. The Residual Plot shows that there is a Homoscedasticity relationship on the residuals.
+* Determined if the Residuals are Normally Distributed. The Quartile-Quartile Plot shows that the Residuals are Normally Distributed.
 
 ### [Traveling Salesman Problem: Simulated Annealing](https://github.com/mebmiranda/Traveling-Salesman-Problem/blob/main/Traveling%20Salesperson%20Problem%20-%20Simulated%20Annealing%20.ipynb) ###
 ##### [Click here to see full analysis](https://github.com/mebmiranda/Traveling-Salesman-Problem/blob/main/Traveling%20Salesperson%20Problem%20-%20Simulated%20Annealing%20.ipynb) ####
 * Used Euclidean Distance formula to compute the distance from one location to another.
 * Computed the initial path's total distance which is the distance from Location 0 to Location 1, and so on until the last Location, and the distance going back from the Last Location to Location 0.
-* Generated 2 random numbers to determine which cities will be swap on the next iteration. 
-* Computed the new path's total distance. If this new path is shorter, accept it. Otherwise, accept it with probability p
-* The formula for p is p = exp((old distance - new distance)/k) where k is the temperature of the system
+* Generated 2 random numbers to determine which cities will be swapped on the next iteration. 
+* Computed the new path's total distance. If this new path is shorter, accept it. Otherwise, accept it with probability p.
+* The formula for p is p = exp((old distance - new distance)/k) where k is the temperature of the system.
 * Generate random probability and if p is better than the generated random probability, accept the new path.
 
