@@ -1,7 +1,7 @@
 ## About Me ##
 Hi there! I am Maynard Miranda an aspiring Data Scientist and a Master of Science Student at Georgia Institute of Technology. 
 
-I am currently working on a non-profit organization here in Washington D.C. My current role is leading business and IT-related projects such as system migration, internal audit, and process improvement. 
+I am currently working on a non-profit organization in Washington D.C. My current role is leading business and IT-related projects such as system migration, internal audit, and process improvement. 
 
 My undergraduate degree is Bachelor of Science in Industrial Engineering which I took from Adamson University. Then, I took a Master of Science in Engineering Management at George Washington University. I also have several professional certifications such as Management Essentials from Harvard Business School, Lean Six Sigma Black Belt from Dartmouth College, Lean Six Sigma Green Belt from the University of Michigan, Certified Systems Engineering Professional from Internation Council of Systems Engineering, and Certified Associate in Project Management from Project Management Institute.
 
